@@ -4,7 +4,7 @@ A research project conducted at Robotics Lab at Lund University.
 Upstream: https://lgit945.cs.lth.se/robotlab/firefly
 
 
-The goal was to creating a service and subscriber for force and torque samples from a sensor with low level hard real time requirements using C, FreeRTOS, Linux and Xenomai. We designed and implementted a general system and API for connecting nodes speaking a sample language and let them communicate over logical channels with different transport methods e.g. (real time) Ethernet, UDP, TCP or sneakernet.
+The goal was to creating a service and subscriber for force and torque samples from a sensor with low level hard real time requirements using C, FreeRTOS, Linux and Xenomai. We designed and implemented a general system and API for connecting nodes speaking a sample language and let them communicate over logical channels with different transport methods e.g. (real time) Ethernet, UDP, TCP or sneakernet.
 
 **Tech stack:** Embedded C, Shell scripting, C++, GNU Linux, Robot Operating System, FreeRTOS, lwIP, CUnit, GDB, GNU
 Make, Clang, LATEX, Git, SVN, Doxygen
